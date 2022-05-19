@@ -1,0 +1,86 @@
+img {
+    width: 120px;
+    border: solid  5px;
+}
+h1 {
+    display:flex;
+    justify-content: center;
+}
+.menusection { 
+    justify-content: center;
+    margin: 10px;
+    display: flex;
+}
+.item1 { 
+    padding: 10px;
+    border: 2px black solid;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    background-color: #7aa16c;
+    text-decoration: underline;
+}
+body {
+    background-color: #445a3c
+;
+}
+.aboutme {
+    margin: 10px;
+    border: 8px solid #5f7d54;
+    flex-direction: column;
+    align-items: center;  
+    display: flex;
+	width: 250px;
+    height:1500px;
+}
+.posts { 
+    justify-content: center;
+    margin: 10px;
+    border: 8px solid #5f7d54;
+    width:500px;
+    text-align: center;
+}
+.friends {
+    justify-content: center;
+    margin: 10px;
+    border: 8px  solid #5f7d54;
+    width: 250px;
+    height:1500px;
+}
+.items { 
+    display:flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    color: black;
+}
+.all {
+    display: flex;
+    justify-content: center;
+}
+.pic {
+}
+ h2 {
+     text-align: center;}
+
+.amigas {
+    text-align: center;}
+.mandm {
+    width: 300px;}
+.post { 
+	border: 3px #6d8f60 solid;
+	display: block;
+	justify-content: space-around;}
+.space {
+    color: #445a3c;
+
+}
+
+.favsongs { 
+    color: black;
+}
+
+
+
+
+
+
